@@ -24,7 +24,6 @@ def scrape_finder_details(business_name):
         # Find the first result in the search results
         result = soup.find('div', class_='result-container')
         if result:
-            # Extract the address, phone number, and description
             details['address'] = result.find('div', class_='address').text.strip() if result.find('div', class_='address') else 'Not found'
             details['phone_number'] = result.find('div', class_='phone').text.strip() if result.find('div', class_='phone') else 'Not found'
             details['gmail'] = result.find('a', class_='email').text.strip() if result.find('a', class_='email') else 'Not found'
@@ -59,7 +58,7 @@ def main():
 
     all_hydrated_data = []
 
-    # Process each CSV file in the directory
+
     for filename in os.listdir(input_dir):
         if filename.endswith(".csv"):
             file_path = os.path.join(input_dir, filename)

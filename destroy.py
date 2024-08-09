@@ -11,7 +11,7 @@ def is_valid_website(url):
         if response.status_code == 404:
             print("Website returned 404, keeping the company.")
             return False
-        # Check if the content is minimal (e.g., under 100 characters of text)
+       
         soup = BeautifulSoup(response.content, 'html.parser')
         body_text = soup.get_text(strip=True)
         if len(body_text) > 100:
@@ -26,7 +26,7 @@ def is_valid_website(url):
 
 def find_website(company_name):
     print(f"Searching for website for company: {company_name}")
-    query = f"{company_name} site:.fi"  # Assuming you're looking for Finnish websites
+    query = f"{company_name} site:.fi"  
     try:
         for url in search(query, num_results=5):
             if is_valid_website(url):
@@ -41,12 +41,12 @@ def process_file(file_path, output_dir):
     with open(file_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         companies_to_keep = []
-        seen_companies = set()  # To track duplicates
+        seen_companies = set()  
 
         for row in reader:
             company_name = row.get('company_name')
 
-            # Avoid processing duplicates
+         
             if company_name in seen_companies:
                 continue
             seen_companies.add(company_name)
@@ -66,11 +66,10 @@ def process_file(file_path, output_dir):
                 print(f"Company '{company_name}' will be kept.")
                 companies_to_keep.append(row)
 
-    # Ensure the output directory exists
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Output the results to a new CSV file
+ 
     output_file = os.path.join(output_dir, f"filtered_{os.path.basename(file_path)}")
     with open(output_file, 'w', newline='') as csvfile:
         fieldnames = ['Y-tunnus', 'company_name', 'address', 'website']
@@ -81,14 +80,13 @@ def process_file(file_path, output_dir):
     print(f"Finished processing {file_path}. Results saved to {output_file}.")
 
 def main():
-    # Directory containing the CSV batches
+ 
     input_dir = input("Enter the directory path where the CSV batches are located: ")
     output_dir = input("Enter the directory path where the filtered CSVs should be saved: ")
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Process each CSV file in the directory
     for filename in os.listdir(input_dir):
         if filename.endswith(".csv"):
             file_path = os.path.join(input_dir, filename)
