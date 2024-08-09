@@ -1,0 +1,11 @@
+# Ignore output sites and temporary files
+output-sites/
+template-repo/
+*.log
+__pycache__/
+*.pyc
+.env
+
+hhh/
+
+ready_cafe/

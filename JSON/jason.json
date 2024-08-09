@@ -1,0 +1,200 @@
+[
+        {
+            "name": "Kahvila Roll Oy",
+            "address": "Itäkeskuksenkaari 3, 28130 Pori, Finland",
+            "phone_number": "+358 40 5314577",
+            "gmail": "eosuvanto@gmail.com",
+            "description": "Kahvila Roll Oy operates a café and lunch restaurant in Pori, Finland, offering a variety of fresh foods, including filled baguettes and baked goods."
+        },
+        {
+            "name": "Kahvila Roosa Oy",
+            "address": "Rakentajantie 2 A, 27510 Eura, Finland",
+            "phone_number": "+358 2 8650750",
+            "gmail": "Not found",
+            "description": "Kahvila Roosa Oy is a small café located in Eura, offering a cozy atmosphere and serving a variety of coffee and snacks."
+        },
+        {
+            "name": "Kahvila Saima Oy",
+            "address": "Linnankatu 11, 57130 Savonlinna, Finland",
+            "phone_number": "+358 15 515340",
+            "gmail": "info@kahvilasaima.fi",
+            "description": "Kahvila Saima Oy is a cozy café and restaurant located in the heart of Savonlinna, near St. Olaf’s Castle. It offers a charming atmosphere with freshly ground coffee and a variety of baked goods."
+        },
+        {
+            "name": "Kahvila Smak Oy",
+            "address": "Jäämerentie 14, 99600 Sodankylä, Finland",
+            "phone_number": "+358 10 2993470",
+            "gmail": "kahvilasmak@gmail.com",
+            "description": "Kahvila Smak Oy is a cozy café located in Sodankylä, known for offering a wide selection of fresh and delicious pastries, along with a variety of hot and cold beverages. The café also provides lunch options on weekdays and caters to special events with custom cakes and baked goods."
+        },
+        {
+            "name": "Kahvila Stifla Oy",
+            "address": "Myllärintie 2 lh. 2, 01800 Klaukkala, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Kahvila Stifla Oy is a recently established café located in Klaukkala, Finland. The company was founded in 2024 and is listed as active in various Finnish business registries. It operates as a small café under the classification of coffee bars and cafés."
+        },
+        {
+            "name": "Kahvila Susanna Koivisto Oy",
+            "address": "Vapaudenkatu 4 Linja-Autoasema, 30100 Forssa, Finland",
+            "phone_number": "+358 3 4356100",
+            "gmail": "cafesusanna@gmail.com",
+            "description": "Kahvila Susanna Koivisto Oy is a quaint café located at the Forssa bus station. The café offers a selection of fresh donuts, specialty coffees, and a daily soup lunch. It’s a popular stop for travelers and locals alike."
+        },
+        {
+            "name": "Kahvila T & M Hämäläinen Oy",
+            "address": "Pentinpolku 1, 52700 Mäntyharju, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Kahvila T & M Hämäläinen Oy is a newly established café located in Mäntyharju, Finland. The company was founded in 2023 and is still in its early stages of operation."
+        },
+        {
+            "name": "Kahvila Torinkulma Oy",
+            "address": "Tapani Löfvingin Katu 6-8 J 39, 06100 Porvoo, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Kahvila Torinkulma Oy is a small café located in Porvoo, Finland. Established in 2022, it operates as a café-restaurant offering a variety of services. Despite its recent establishment, the company has shown modest activity in the local market."
+        },
+        {
+            "name": "Kahvila Tyyrpuuri Oy",
+            "address": "Maaherrankatu 1, Heinola, Finland",
+            "phone_number": "+358 44 9831448",
+            "gmail": "kahvilatyyrpuuri@outlook.com",
+            "description": "Kahvila Tyyrpuuri Oy is a summer café located in the scenic harbor of Heinola. Known for its cozy atmosphere and beautiful terrace, the café offers a range of salty and sweet delicacies made from fresh, local ingredients. It operates seasonally, serving customers from May through the summer months."
+        },
+        {
+            "name": "Kahvila Ulla ja Aleksanteri Oy",
+            "address": "Keskuskatu 11, 04600 Mäntsälä, Finland",
+            "phone_number": "+358 44 2367220",
+            "gmail": "Not available",
+            "description": "Kahvila Ulla ja Aleksanteri Oy, also known as Kahvila Hannastiina Oy, is a charming café located in Mäntsälä, Finland. Established in 2015, the café is known for its daily changing soups, fresh salads, and homemade cakes and pastries, offering a cozy atmosphere for both locals and visitors."
+        },
+        {
+            "name": "Kahvila Veganni Oy",
+            "address": "Patruunantie 13, 62800 Vimpeli, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Kahvila Veganni Oy is a newly established café in Vimpeli, founded in 2024. The café is known for its vegan offerings, focusing on fresh, plant-based ingredients."
+        },
+        {
+            "name": "Kahvila Verso Oy",
+            "address": "Hiihtomäentie 37, 00800 Helsinki, Finland",
+            "phone_number": "+358 44 088 7050",
+            "gmail": "kahvila@verso.inet.fi",
+            "description": "Kahvila Verso Oy is a vegetarian café located in Helsinki, established in 2016. It offers a variety of healthy and delicious vegetarian dishes, and its cozy atmosphere makes it a popular spot among locals."
+        },
+        {
+            "name": "Kahvila Willie Oy",
+            "address": "Vilhonkatu 6, 24100 Salo, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Kahvila Willie Oy, officially known as Kahvila Wilhelmiina, has been operating since 1981. It is located in Salo and offers a variety of café services, including freshly baked goods and hot beverages."
+        },
+        {
+            "name": "Kahvila- ja Ruokapaikka Luokkala Oy",
+            "address": "Kuusamontie 1623, 98720 Suomutunturi, Kemijärvi, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "This café and restaurant is located in the scenic Suomutunturi area of Kemijärvi. The place offers a variety of meals and is well-regarded by visitors for its cozy atmosphere."
+        },
+        {
+            "name": "Kahvila-konditoria Hygge Oy",
+            "address": "Keskuskatu 35, 48100 Kotka, Finland",
+            "phone_number": "+358 44 2446946",
+            "gmail": "kahvilahygge@gmail.com",
+            "description": "Established in 2017, Kahvila-konditoria Hygge is a small and cozy café in Kotka, known for its homemade pastries and baked goods. The café offers a warm atmosphere and a selection of both sweet and savory treats made from high-quality ingredients."
+        },
+        {
+            "name": "Kahvila-ravintola Helarinne Oy",
+            "address": "Kirkkotie 15 B, 25390 Kiikala, Finland",
+            "phone_number": "+358 50 5177787",
+            "gmail": "lassi.laakkio@gmail.com",
+            "description": "Established in 2013, this café-restaurant is located in Kiikala, Salo, offering a cozy atmosphere and a variety of dishes."
+        },
+        {
+            "name": "Kahvila-ravintola Hillapulla Oy",
+            "address": "Tornikatu 1, 21200 Raisio, Finland",
+            "phone_number": "+358 40 5150123",
+            "gmail": "Not available",
+            "description": "Kahvila-ravintola Hillapulla Oy is located in Raisio and provides a variety of café and restaurant services. It is known for its friendly atmosphere and delicious offerings."
+        },
+        {
+            "name": "Kahvila Roll Oy",
+            "address": "Itäkeskuksenkaari 3, 28130 Pori, Finland",
+            "phone_number": "+358 40 5314577",
+            "gmail": "eosuvanto@gmail.com",
+            "description": "Operates a café and lunch restaurant in Pori, offering fresh foods, including filled baguettes and baked goods."
+        },
+        {
+            "name": "Kahvila Roosa Oy",
+            "address": "Rakentajantie 2 A, 27510 Eura, Finland",
+            "phone_number": "+358 2 8650750",
+            "gmail": "Not found",
+            "description": "A small café in Eura, offering a cozy atmosphere and a variety of coffee and snacks."
+        },
+        {
+            "name": "Kahvila Saima Oy",
+            "address": "Linnankatu 11, 57130 Savonlinna, Finland",
+            "phone_number": "+358 15 515340",
+            "gmail": "info@kahvilasaima.fi",
+            "description": "Cozy café and restaurant near St. Olaf’s Castle, offering freshly ground coffee and baked goods."
+        },
+        {
+            "name": "Kahvila-Ravintola Kulissi Oy",
+            "address": "Possijärvenkatu 3, 33400 Tampere, Finland",
+            "phone_number": "Not available",
+            "gmail": "Not available",
+            "description": "Located in Tampere, offering café and restaurant services with a casual dining experience."
+        },
+        {
+            "name": "Kahvila-Ravintola Linnan Liisa Oy",
+            "address": "Linnan yritystie 2, 43100 Saarijärvi, Finland",
+            "phone_number": "+358 40 5210978 (kitchen), +358 40 1493630 (office)",
+            "gmail": "linnanliisaoy@gmail.com, kahvila@linnanliisa.fi",
+            "description": "Family-run café and restaurant offering traditional Finnish cuisine, pizzas, and hamburgers."
+        },
+        {
+            "name": "Kahvila-Ravintola Myrskytähti Oy",
+            "address": "Keskustie 14, 07600 Myrskylä, Finland",
+            "phone_number": "+358 19 6770605",
+            "gmail": "Not available",
+            "description": "Offers dining services, including lunch and event catering, with a focus on traditional Finnish cuisine."
+        },
+        {
+            "name": "Kahvila-Ravintola Perno Oy",
+            "address": "Hyrköistentie 26, 20240 Turku, Finland",
+            "phone_number": "+358 2 2403327",
+            "gmail": "Not available",
+            "description": "Café and restaurant services in Turku, with dine-in and take-out options."
+        },
+        {
+            "name": "Kahvila-Ravintola Rantakelo Oy",
+            "address": "Parvoonranta 10, 36660 Laitikkala, Finland",
+            "phone_number": "+358 50 3829770",
+            "gmail": "Not available",
+            "description": "Established in 1984, offering traditional Finnish dishes and a cozy atmosphere."
+        },
+        {
+            "name": "Kahvila-ravintola Sääksmäen Silta Oy",
+            "address": "Hämeenlinnantie 28, 37700 Sääksmäki, Finland",
+            "phone_number": "+358 3 5881092",
+            "gmail": "silta@saaksmaensilta.com",
+            "description": "Traditional Finnish dining experience with scenic views, offering homemade baked goods and meals."
+        },
+        {
+            "name": "Kahvila-Ravintola Warszawianka Tamminiementien Kahvila Oy",
+            "address": "Tamminiementie 3, 00250 Helsinki, Finland",
+            "phone_number": "+358 50 0603378",
+            "gmail": "villa.angelica@kolumbus.fi",
+            "description": "Also known as Villa Angelica, operating since 1983 in Helsinki, offering a variety of traditional Finnish dishes."
+        },
+        {
+            "name": "Kahvila-Ravintola Hurpakka Oy",
+            "address": "Keskustie 46, 43900 Kinnula, Finland",
+            "phone_number": "+358 44 3655612",
+            "gmail": "Not available",
+            "description": "A cozy café-restaurant located in Kinnula offering typical café and pub services."
+        }
+        
+    
+]
